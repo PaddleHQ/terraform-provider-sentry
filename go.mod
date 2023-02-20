@@ -1,4 +1,4 @@
-module github.com/geototti21/terraform-provider-sentry
+module github.com/PaddleHQ/terraform-provider-sentry
 
 go 1.19
 
